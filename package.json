@@ -15,7 +15,7 @@
     ],
     "publisher": "kdcro101",
     "engines": {
-        "vscode": "^1.21.1"
+        "vscode": "^1.19.0"
     },
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
