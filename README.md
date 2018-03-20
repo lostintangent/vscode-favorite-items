@@ -4,19 +4,21 @@ Extension provides ability to add files and directories to favorites enabling qu
 
 ![](https://raw.githubusercontent.com/kdcro101/vscode-favorite-items/master/images/preview.gif)
 
-## Install
+<!-- ## Install -->
 
-Launch VS Code Quick Open (`cmd`/`ctrl` + `p`), paste the following command, and press enter.
+<!-- Launch VS Code Quick Open (`cmd`/`ctrl` + `p`), paste the following command, and press enter. -->
 
-```
+<!-- ```
 ext install vscode-favorite-items
-```
+``` -->
 
 ## Usage
 
-`vscode-favorites` save your favorite resource in workspace `settings.json`, and show them in a separate view
+### Adding to favorites
+Right-click item in File explored and select `Add to favorites`.
+### Removing from favorites
+Right-click item in Favorites view and select `Delete favorite`
 
-### Configuration
 
 ## LICENSE
 
