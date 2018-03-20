@@ -2,7 +2,17 @@
     "name": "favorite-items",
     "displayName": "Favorite items",
     "description": "Extension provides ability to add files and directories to favorites enabling quick access. Time saver for complex projects.",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "categories": ["Other"],
+    "keywords": [
+        "bookmarks",
+        "favorites",
+        "add to favorites",
+        "favorite files",
+        "favorite directory"
+
+
+    ],
     "publisher": "kdcro101",
     "engines": {
         "vscode": "^1.21.1"
@@ -14,13 +24,9 @@
         "postinstall": "node ./node_modules/vscode/bin/install",
         "translate": "gulp"
     },
-    "categories": [
-        "Other"
-    ],
     "icon": "images/icon.png",
     "bugs": {
-        "url": "https://github.com/kdcro101/vscode-favorite-items/issues",
-        "email": "leftstick@qq.com"
+        "url": "https://github.com/kdcro101/vscode-favorite-items/issues"
     },
     "homepage": "https://github.com/kdcro101/vscode-favorite-items/blob/master/README.md",
     "repository": {

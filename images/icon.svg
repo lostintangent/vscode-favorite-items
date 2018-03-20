@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="icon.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="388.57888"
-     inkscape:cy="151.1038"
+     inkscape:cx="-227.32655"
+     inkscape:cy="220.81873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,21 +59,20 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3765"
-       transform="translate(-1002.8571,-88.571429)"
+       id="g3764"
        inkscape:export-filename="/exec/vscode-favorite-items/images/icon.png"
        inkscape:export-xdpi="20.950001"
        inkscape:export-ydpi="20.950001">
       <rect
-         y="-227.63782"
-         x="-932.37561"
+         y="-316.20926"
+         x="-1935.2327"
          height="1100"
          width="1100"
          id="rect3763"
          style="fill:none;stroke:none" />
       <path
          inkscape:transform-center-x="-13.978675"
-         transform="matrix(0.89729565,-0.05272674,0.05272674,0.89729565,916.12341,386.64057)"
+         transform="matrix(0.89729565,-0.05272674,0.05272674,0.89729565,-86.73369,298.06914)"
          inkscape:transform-center-y="471.45598"
          d="m -880.47043,-251.84903 -289.13307,253.7209767 45.0953,382.0192433 -330.6501,-196.57783 -349.3866,160.93862 84.7801,-375.212761 -261.0281,-282.553709 383.047,-35.3164 188.0624,-335.56641 151.956,353.38602 z"
          inkscape:randomized="0"
@@ -87,7 +86,7 @@
          sodipodi:cx="-1440"
          sodipodi:sides="5"
          id="path2991"
-         style="fill:#ec407a;fill-opacity:1;stroke:#d81b60;stroke-width:62.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ec407a;fill-opacity:1;stroke:#86113c;stroke-width:85.86367053;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="star" />
     </g>
   </g>
