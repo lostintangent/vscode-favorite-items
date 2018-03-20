@@ -2,21 +2,22 @@
     "name": "favorites",
     "displayName": "Favorites",
     "description": "Extension provides ability to add files and directories to favorites enabling quick access. Time saver for complex projects.",
-    "version": "0.0.3",
-    "categories": ["Other"],
+    "version": "0.0.4",
+    "categories": [
+        "Other"
+    ],
     "keywords": [
         "bookmarks",
         "favorites",
         "add to favorites",
         "favorite files",
         "favorite directory"
-
-
     ],
     "publisher": "kdcro101",
     "engines": {
         "vscode": "^1.19.0"
     },
+
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
         "compile": "tsc -watch -p ./",
