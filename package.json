@@ -1,5 +1,5 @@
 {
-    "name": "vscode-favorite-items",
+    "name": "favorite-items",
     "displayName": "Favorite items",
     "description": "Extension provides ability to add files and directories to favorites enabling quick access. Time saver for complex projects.",
     "version": "0.0.1",
@@ -60,22 +60,17 @@
             }
         },
         "views": {
-            "explorer": [
-                {
-                    "id": "favorites",
-                    "name": "Favorites"
-                }
-            ]
+            "explorer": [{
+                "id": "favorites",
+                "name": "Favorites"
+            }]
         },
         "menus": {
-            "explorer/context": [
-                {
-                    "command": "favorites.addToFavorites",
-                    "group": "favorites"
-                }
-            ],
-            "view/title": [
-                {
+            "explorer/context": [{
+                "command": "favorites.addToFavorites",
+                "group": "favorites"
+            }],
+            "view/title": [{
                     "command": "favorites.nav.sort.az",
                     "when": "view == favorites && sort==DESC",
                     "group": "navigation"
@@ -91,16 +86,13 @@
                     "group": "navigation"
                 }
             ],
-            "view/item/context": [
-                {
-                    "command": "favorites.deleteFavorite",
-                    "when": "view == favorites && viewItem == resource",
-                    "group": "operation"
-                }
-            ]
+            "view/item/context": [{
+                "command": "favorites.deleteFavorite",
+                "when": "view == favorites && viewItem == resource",
+                "group": "operation"
+            }]
         },
-        "commands": [
-            {
+        "commands": [{
                 "command": "favorites.nav.sort.az",
                 "title": "%command.favorites.sort%",
                 "icon": {
