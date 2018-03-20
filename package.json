@@ -1,8 +1,8 @@
 {
-    "name": "favorite-items",
-    "displayName": "Favorite items",
+    "name": "favorites",
+    "displayName": "Favorites",
     "description": "Extension provides ability to add files and directories to favorites enabling quick access. Time saver for complex projects.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "categories": ["Other"],
     "keywords": [
         "bookmarks",
